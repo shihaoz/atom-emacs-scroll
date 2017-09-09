@@ -7,7 +7,7 @@
   ],
   "activationCommands": {
   },
-  "repository": "https://github.com/atom/emacs-scroll",
+  "repository": "https://github.com/shihaoz/atom-emacs-scroll",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
