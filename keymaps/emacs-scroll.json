@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-v": "emacs-scroll: screen-down",
+    "alt-v": "emacs-scroll: screen-up"
+  }
+}

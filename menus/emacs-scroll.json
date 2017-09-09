@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle emacs-scroll",
+        "command": "emacs-scroll:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "emacs-scroll",
+          "submenu": [
+            {
+              "label": "scroll up",
+              "command": "emacs-scroll: screen-up"
+            },
+            {
+              "label": "scroll down",
+              "command": "emacs-scroll: screen-down"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

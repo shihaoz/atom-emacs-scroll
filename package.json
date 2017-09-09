@@ -1,0 +1,17 @@
+{
+  "name": "emacs-scroll",
+  "main": "./lib/emacs-scroll",
+  "version": "0.0.0",
+  "description": "a nicer page scrolling using emacs command ctrl-v/alt-v",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/atom/emacs-scroll",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
