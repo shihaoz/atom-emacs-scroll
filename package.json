@@ -1,7 +1,7 @@
 {
   "name": "emacs-scroll",
   "main": "./lib/emacs-scroll",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "a nicer page scrolling using emacs command ctrl-v/alt-v",
   "keywords": [],
   "activationCommands": {},
